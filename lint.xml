@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DefaultLocale">
+        <ignore path="src/ca/uwaterloo/lab3_203_03/GeneralSensorEventListener.java" />
+    </issue>
+</lint>
